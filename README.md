@@ -73,7 +73,7 @@ const HaydarSamaha = {
   backend: ["Node.js", "Express",
             "FastAPI"],
   db: ["MongoDB", "PostgreSQL"],
-  tools: ["Git", "Docker", "Postman",
+  tools: ["Git", "Postman",
           "Socket.IO", "Linux"],
   motto: "Build clean. Ship fast. ⚡",
 };
@@ -145,7 +145,6 @@ fun_fact: "I built a full business platform for my graduation project 🚀"
 
 #### `⟨ TOOLS _ DEVOPS ⟩`
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=00ffff&labelColor=0d1117)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ff00ff&labelColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0d1117)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=00ffff&labelColor=0d1117)
@@ -198,7 +197,7 @@ fun_fact: "I built a full business platform for my graduation project 🚀"
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 💼 FieldFlow360
 **Junior Frontend Engineer — Remote**
@@ -210,18 +209,6 @@ fun_fact: "I built a full business platform for my graduation project 🚀"
 - 🧩 Reusable, generalized UI component systems
 - 🗂️ **Feature-Sliced Design (FSD)** architecture
 - 📱 Responsive & adaptive across web and mobile
-
-</td>
-<td width="50%">
-
-### 💼 Strabonet Digital Marketing
-**Web Developer**
-`Dec 2023 — Mar 2025`
-
-- 🌐 Customized **WordPress** sites
-- ⚡ Performance optimization: caching & UI improvements
-- 📐 Responsive designs across all device sizes
-- ✨ Enhanced overall user experience
 
 </td>
 </tr>
@@ -248,8 +235,9 @@ fun_fact: "I built a full business platform for my graduation project 🚀"
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haydarsamaha&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ffff&area=true&area_color=ff00ff&hide_border=true&radius=16&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" width="95%"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
 
 ---
